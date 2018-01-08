@@ -2267,5 +2267,3 @@ mapDispatchToProps -> needs to bind actioncreators to the applications, for this
 connect function takes two arguments.
 
 connct(mapSetsToProps, mapSetsToProps)
-
-hello
